@@ -45,7 +45,7 @@ Generated\ Files/
 
 # NUnit
 *.VisualState.xml
-TestResult.xml
+TestResult
 nunit-*.xml
 
 # Build Results of an ATL Project
@@ -348,7 +348,7 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
-wwwroot/
+#wwwroot/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
